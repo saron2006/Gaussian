@@ -43,7 +43,7 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/matrix[i][i]
 for i in range(n):
     print("X%d = %0.2f" %(i,x[i]),end=" ")
-    
+```    
 
 ## Output:
 ![image](https://github.com/saron2006/Gaussian/assets/138849343/8906d5c3-0723-41d9-a874-800fc9aec60d)
